@@ -2,7 +2,8 @@
 Scaling web application using Q Learning  (Neural Network as Q function)
 
 Relevant Links:
-[VMWare paper - Scaling of Cloud Applications Using Machine Learning](https://labs.vmware.com/vmtj/scaling-of-cloud-applications-using-machine-learning)
+
+[VMWare paper - Scaling of Cloud Applications Using Machine Learning] (https://labs.vmware.com/vmtj/scaling-of-cloud-applications-using-machine-learning)
 
 [Basic RL + Python guide - Part 1](http://outlace.com/Reinforcement-Learning-Part-1/)
 
